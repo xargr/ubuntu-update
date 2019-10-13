@@ -1,0 +1,21 @@
+{
+  "name": "ubuntu-updater",
+  "version": "1.0.0",
+  "description": "Update and clean up script for ubuntu",
+  "private": false,
+  "license": "MIT",
+  "main": "dist/index.js",
+  "bin": {
+    "ubuntu-updater": "./update.sh"
+  },
+  "keywords": [
+    "ubuntu",
+    "linux",
+    "linux update"
+  ],
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xargr/ubuntu-update"
+  }
+}
