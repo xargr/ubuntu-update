@@ -1,6 +1,6 @@
 {
   "name": "ubuntu-updater",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Update and clean up script for ubuntu",
   "private": false,
   "license": "MIT",
